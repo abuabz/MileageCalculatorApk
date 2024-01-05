@@ -1,4 +1,4 @@
-package com.newapp
+package com.VehicleMC
 
 import android.app.Application
 import com.facebook.react.PackageList

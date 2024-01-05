@@ -34,8 +34,8 @@ const styles = StyleSheet.create({
         fontFamily: 'Nunito-Bold',
     },
     input: {
-        height: 40,
-        width: 300,
+        height: 40,        
+        width: 270,
         margin: 10,
         marginHorizontal: 30,
         borderWidth: 1,
